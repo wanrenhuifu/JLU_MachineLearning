@@ -95,3 +95,7 @@ pip install -r ml2/Spam_Email_Classificaton-master/requirements.txt
    cd finalwork
    python svm_mnist.py
    ```
+
+   ## 许可证
+
+[MIT](./LICENSE)
